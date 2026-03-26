@@ -1,58 +1,34 @@
-<!-- Profile README by Imron (Baim) -->
+# Hi, I'm Imron Rosadi
 
-<div align="center">
+Frontend & AI Engineer from Indonesia. I build scalable web products, real-time systems, and LLM-powered workflows.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Baim;Front-End+Engineer+%7C+Problem+Solver;Building+Scalable+Products+with+Code" alt="Typing SVG" />
+- Role: Software Engineer at Binary Dev
+- Focus: Next.js, TypeScript, Node.js, Python, Redis, MongoDB, PostgreSQL
+- Current interest: AI agents, RAG pipelines, developer tooling
+- Website: [imronrosadi.com](http://imronrosadi.com)
 
-<h2>🚀 Welcome to My Developer Space 🚀</h2>
+## Featured Projects
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation" />
+- [vibecoding-starter](https://github.com/irosadie/vibecoding-starter) - starter template for building modern TypeScript apps quickly.
+- [web-session-manager](https://github.com/irosadie/web-session-manager) - session orchestration service for web applications.
+- [binarydev-server](https://github.com/irosadie/binarydev-server) - deployment and server setup scripts.
+- [clipper](https://github.com/irosadie/clipper) - automation tools for short-form video clipping workflows.
+- [fifa-ranking](https://github.com/irosadie/fifa-ranking) - scripts and data exploration around FIFA ranking trends.
 
-</div>
+## Tech Stack
 
----
-
-## 👋 About Me
-
-I’m a **Front-End Engineer** with a strong passion for building **scalable, maintainable, and user-centric web applications**.  
-I enjoy turning complex problems into clean, efficient solutions and collaborating with teams to deliver real-world impact.
-
-- 💻 Front-End Engineer | Problem Solver | Coffee Enthusiast ☕  
-- 🧠 Strong interest in system design, performance, and clean architecture  
-- 🌏 Based in Indonesia, working with global teams  
-- 🎯 Currently exploring **AI, RAG systems, and developer tooling**
-
----
-
-## 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,python,postgres,mongodb,tailwind,redis,figma" />
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,postgres,mongodb,redis,docker,git" alt="tech stack" />
 </p>
 
----
+## Connect
 
-## 🧠 What I’m Currently Working On
-
-- Designing scalable frontend architectures
-- Building AI-assisted platforms using RAG
-- Improving developer experience and system reliability
+- LinkedIn: [imron-rosadi](https://www.linkedin.com/in/imron-rosadi)
+- Email: [contact@imronrosadi.com](mailto:contact@imronrosadi.com)
+- X/Twitter: [@irosadiee](https://x.com/irosadiee)
 
 ---
 
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/imron-rosadi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:contact@imronrosadi.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=irosadie&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=baimwong&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
